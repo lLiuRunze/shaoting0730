@@ -44,8 +44,8 @@ A passionate **Quantitative Researcher** specializing in financial machine learn
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lLiuRunze&layout=compact&langs_count=7&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite"/>
 </div>
 
-![Snake animation Light](https://github.com/shaoting0730/shaoting0730/blob/snake/github-contribution-grid-snake-light.svg) 
-![gitartwork](https://github.com/shaoting0730/shaoting0730/blob/main/gitartwork.svg)
+![Snake animation Light](https://github.com/lLiuRunze/lLiuRunze/blob/snake/github-contribution-grid-snake-light.svg) 
+![gitartwork](https://github.com/lLiuRunze/lLiuRunze/blob/main/gitartwork.svg)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lLiuRunze&repo=RLfactor)](https://github.com/lLiuRunze/RLfactor)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lLiuRunze&repo=mail_agent)](https://github.com/lLiuRunze/mail_agent)
