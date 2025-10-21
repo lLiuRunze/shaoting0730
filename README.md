@@ -5,13 +5,33 @@
   </a>
 </h1>
 
-### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"/>
-I am Runze Liu who is a quantitive reasearcher from China. 
+# 👋 Hi, I'm Runze Liu  
+A passionate **Quantitative Researcher** specializing in financial machine learning, factor mining, and stock market prediction. Currently pursuing a B.S. in Financial Statistics and Risk Management at Shanghai University of Finance and Economics (SUFE), with hands-on experience in hedge fund internships and ML-driven quant projects.
 
+---
+### 🛠️ Technical Skills  
+| Category | Tools & Technologies |
+|----------|----------------------|
+| Programming | Python (Pandas/Polars/PyTorch/HuggingFace)  C++  Linux  LeetCode (300+ problems solved) |
+| Machine Learning | LightGBM  XGBoost  Random Forest  CNN  LSTM  MoE  RL |
+| Quant Finance | CVXPY  Barra  Factor Analysis  Backtesting  OHLC Data Processing |
 
+---
 
-### Contact me 📚  
+### 🔍 Research & Leadership  
+- **Research Assistant** @ Teng Jiaye Research Group (SUFE) | 2025.01 - Present  
+  Reviewed ML research papers; led a project on LLM "hallucinations" (first author)  
+- **Co-founder** @ SUFE Quantitative Association | 2024 - Present  
+  Organized workshops on quant trading & ML for 50+ members
 
+---
+
+### 📫 Get in Touch  
+- Email: [2023111753@stu.sufe.edu.cn](mailto:2023111753@stu.sufe.edu.cn)  
+- Phone: (86) 131-1159-3467  
+- Portfolio: [https://lliurunze.github.io](https://lliurunze.github.io) 
+
+---
 
 
 
@@ -19,16 +39,16 @@ I am Runze Liu who is a quantitive reasearcher from China.
 
 
 <div align="center">
-  <a href="https://github.com/shaoting0730">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shaoting0730&show_icons=true&include_all_commits=true&count_private=true&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shaoting0730&layout=compact&langs_count=7&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite"/>
+  <a href="https://github.com/lLiuRunze">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lLiuRunze&show_icons=true&include_all_commits=true&count_private=true&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lLiuRunze&layout=compact&langs_count=7&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite"/>
 </div>
 
 ![Snake animation Light](https://github.com/shaoting0730/shaoting0730/blob/snake/github-contribution-grid-snake-light.svg) 
 ![gitartwork](https://github.com/shaoting0730/shaoting0730/blob/main/gitartwork.svg)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shaoting0730&repo=Flutter_learn_demo)](https://github.com/shaoting0730/Flutter_learn_demo)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shaoting0730&repo=rust-learn)](https://github.com/shaoting0730/rust-learn)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lLiuRunze&repo=RLfactor)](https://github.com/lLiuRunze/RLfactor)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lLiuRunze&repo=mail_agent)](https://github.com/lLiuRunze/mail_agent)
 
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
